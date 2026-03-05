@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "867202100738",
+    "firebase_url": "https://inclomob-default-rtdb.firebaseio.com",
+    "project_id": "inclomob",
+    "storage_bucket": "inclomob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867202100738:android:6c18bf33d8d32cb0fec11b",
+        "android_client_info": {
+          "package_name": "com.inclomob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzdGJzvHUkoBCInwzgU70cXzGzCAw_gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Inclomob Real-Time Bus Tracker",
+  "description": "A simple mobile app prototype to demonstrate the real-time tracking of buses using Firebase Realtime Database. Users can log in, select a bus line, and view the bus's location, distance, and ETA.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
